@@ -18,15 +18,15 @@ REPORTING
 ===================
 You can also "Export" your state which will give you a .txt file with this format:
 
--- TRANSCRIPT: <NAME> --
-[<CODE>: <QUOTE>]
+-- TRANSCRIPT: PARTICIPANT-ID --
+[CODE: QUOTE]
 
 for each transcript. 
 
 -- CROSS-TRANSCRIPT CODE SUMMARY --
-## <CODE>
-<number of instances> . <number of participants>: <NAME>
-[<NAME>] "<quotes>"
+## CODE
+number of instances . number of participants: PARTICIPANT-ID
+[NAME] "QUOTES"
 
 The "Report" tab shows stats at the top: the number of transcripts, the number of annotations, and the number of codes used. The Report is cross-transcript color-coded by code.
 
